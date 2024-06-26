@@ -12,4 +12,5 @@
   width: 100%;
   background-color: rgb(146, 189, 82);
   transform: translateX(calc(-100%));
+  transition: transform 0.5s ease-in-out;
 }
